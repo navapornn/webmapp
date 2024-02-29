@@ -1,0 +1,1 @@
+var json_newcafe_8 = {"type":"FeatureCollection","name":"newcafe_8","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"2"},"geometry":{"type":"Point","coordinates":[101.389169385615816,12.634944170027017]}}]}
